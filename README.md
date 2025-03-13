@@ -1,6 +1,3 @@
-Below is an easy-to-copy version of the README.md file with the requested formatting and an added note on where users can download the executable.
-
----
 
 ```markdown
 # Multimedia Compressor
@@ -48,7 +45,7 @@ Install these dependencies via pip:
 
 ```bash
 pip install PyQt5 Pillow imageio-ffmpeg opencv-python
-```
+
 
 ## Usage
 
@@ -65,6 +62,6 @@ Alternatively, you can download a standalone executable from the [Releases page]
 This project is licensed under the [MIT License](LICENSE).
 ```
 
----
+
 
 Simply copy the text above into your `README.md` file. This README clearly explains the features, dependencies, usage instructions, and provides a link where users can download the executable version of your application.
