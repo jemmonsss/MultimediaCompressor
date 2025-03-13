@@ -44,7 +44,7 @@ Install these dependencies via pip:
 
 ```bash
 pip install PyQt5 Pillow imageio-ffmpeg opencv-python
-
+```
 
 ## Usage
 
