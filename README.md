@@ -1,3 +1,8 @@
+Below is an easy-to-copy version of the README.md file with the requested formatting and an added note on where users can download the executable.
+
+---
+
+```markdown
 # Multimedia Compressor
 
 A cross-platform multimedia compression application built with Python and PyQt5. This tool provides a modern, user-friendly interface to compress images, videos, and audio files. With a variety of adjustable settings and helpful features like preview, reset, and built-in help, it makes multimedia compression both accessible and customizable.
@@ -52,3 +57,14 @@ Run the application by executing:
 ```bash
 python main.py
 ```
+
+Alternatively, you can download a standalone executable from the [Releases page](https://github.com/jemmonsss/MultimediaCompressor/releases/download/Compresor/Compressor.exe).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+```
+
+---
+
+Simply copy the text above into your `README.md` file. This README clearly explains the features, dependencies, usage instructions, and provides a link where users can download the executable version of your application.
