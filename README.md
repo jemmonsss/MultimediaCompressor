@@ -1,5 +1,4 @@
 
-```markdown
 # Multimedia Compressor
 
 A cross-platform multimedia compression application built with Python and PyQt5. This tool provides a modern, user-friendly interface to compress images, videos, and audio files. With a variety of adjustable settings and helpful features like preview, reset, and built-in help, it makes multimedia compression both accessible and customizable.
